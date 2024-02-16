@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deekshithshaiva05
-- 👀 I’m interested in chrome:Artificial intelligence and Machine learning(AI&ML)
+- 👀 I’m interested in Artificial intelligence and Machine learning(AI&ML)
 - 🌱 I’m currently learning Python,Web and App development and AI&ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
